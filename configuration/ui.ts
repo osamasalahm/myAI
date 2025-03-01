@@ -1,6 +1,6 @@
 import { AI_NAME, OWNER_NAME } from "@/configuration/identity";
 
-export const CHAT_HEADER: string = `Welcome to CEM Contracting`;
+export const CHAT_HEADER: string = `Welcome to CEM Contracting Chat Bot`;
 export const MESSAGE_PLACEHOLDER: string = `[MESSAGE PLACEHOLDER]`;
 export const FOOTER_MESSAGE: string = `Disclaimer: This AI tool provides automated insights and should not replace professional judgment or verification`;
 export const CLEAR_BUTTON_TEXT: string = `Reset Chat`;
